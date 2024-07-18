@@ -1,5 +1,5 @@
 import EmailsHeader from './EmailsHeader'
-import EmailsMain from '../EmailsMain'
+import EmailsMain from './EmailsMain'
 
 const Emails = () => {
   return (

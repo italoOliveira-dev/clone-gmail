@@ -1,4 +1,4 @@
-import EmailsText from './Emails/EmailsText'
+import EmailsText from './EmailsText'
 
 const EmailsMain = () => {
   return (
