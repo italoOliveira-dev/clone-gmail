@@ -39,7 +39,7 @@ export default function MenuLeft() {
   }]);
 
   return (
-    <div className="p-2">
+    <div className="px-6">
       <Compose></Compose>
       {inbox.map((item) => (
         <Inbox
