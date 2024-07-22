@@ -5,7 +5,7 @@ import Header from './components/header'
 function App() {
 
   return (
-    <div className='w-screen h-screen text-[#000000]'>
+    <div className='w-screen h-screen'>
       <Header/>
     </div>
   )
