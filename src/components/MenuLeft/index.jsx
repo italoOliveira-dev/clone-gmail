@@ -49,6 +49,7 @@ export default function MenuLeft() {
           label={item.label}
           quantidade={item.quantidade}
           selecionado={item.selecionado}
+          setInbox={setInbox}
         />
       ))}
       <Label></Label>
